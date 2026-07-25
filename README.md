@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dominik Orincsai 👋
 
-<!--
-**dorincsai/dorincsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Engineering student focused on Software Development, High-Performance Systems, and DevOps Automation.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Languages
+- **Languages:** JavaScript, TypeScript, C#, Python, Rust, C, SQL
+- **Frontend Frameworks:** React, Vue, Angular
+- **Infrastructure & DevOps:** Git, GitHub Actions, Docker, RouterOS (MikroTik), Winbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Technical Interests
+- Systems programming & resource optimization (C / Rust)
+- Full-stack & enterprise web application architecture
+- Infrastructure automation & network security fundamentals
