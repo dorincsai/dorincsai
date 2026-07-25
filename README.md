@@ -1,13 +1,16 @@
 # Hi, I'm Dominik Orincsai 👋
 
-Computer Science & Engineering student focused on Software Development, High-Performance Systems, and DevOps Automation.
+Computer Science & Engineering student driven by high-performance systems, low-resource optimization, and backend security. I love squeezing out every drop of performance from code, writing lightweight, secure software that runs blazingly fast.
 
-### 🛠️ Tech Stack & Languages
-- **Languages:** JavaScript, TypeScript, C#, Python, Rust, C, SQL
-- **Frontend Frameworks:** React, Vue, Angular
-- **Infrastructure & DevOps:** Git, GitHub Actions, Docker, RouterOS (MikroTik), Winbox
+### 🛠️ Core Armory & Tech Stack
+- **Systems & Core:** C, Rust, C#, Python, SQL
+- **Web Architectures:** TypeScript, JavaScript, React, Vue, Angular
+- **Infrastructure & DevOps:** Git, Docker, GitHub Actions, RouterOS (MikroTik), Winbox, Linux
 
-### ⚡ Technical Interests
-- Systems programming & resource optimization (C / Rust)
-- Full-stack & enterprise web application architecture
-- Infrastructure automation & network security fundamentals
+### 🌌 Project Ecosystem
+- 🔭 **I’m currently working on** **Project Chronos** – an ultra-low latency, microservices-driven appointment scheduling engine.
+- 👯 **I’m looking to collaborate on** open-source systems programming, performance benchmarking, and network automation.
+- 🤔 **I’m looking for help with** advanced kernel-level network filtering and eBPF in Rust/C.
+- 🌱 **I’m currently learning** memory-safe exploitation techniques, concurrent system architecture, and advanced cryptography.
+- 💬 **Ask me about** how to bridge the gap between high-level web interfaces and bare-metal performance.
+- ⚡ **Fun fact:** I analyze software the same way I troubleshoot mechanical hardware: profile the bottlenecks, isolate the leaks, and optimize for continuous uptime.
