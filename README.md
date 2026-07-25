@@ -10,7 +10,6 @@ Computer Science & Engineering student driven by high-performance systems, low-r
 ### 🌌 Project Ecosystem
 - 🔭 **I’m currently working on** **Project Chronos** – an ultra-low latency, microservices-driven appointment scheduling engine.
 - 👯 **I’m looking to collaborate on** open-source systems programming, performance benchmarking, and network automation.
-- 🤔 **I’m looking for help with** advanced kernel-level network filtering and eBPF in Rust/C.
 - 🌱 **I’m currently learning** memory-safe exploitation techniques, concurrent system architecture, and advanced cryptography.
 - 💬 **Ask me about** how to bridge the gap between high-level web interfaces and bare-metal performance.
 - ⚡ **Fun fact:** I analyze software the same way I troubleshoot mechanical hardware: profile the bottlenecks, isolate the leaks, and optimize for continuous uptime.
