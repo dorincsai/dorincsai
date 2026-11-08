@@ -8,7 +8,6 @@ Computer Science & Engineering student driven by high-performance systems, low-r
 - **Infrastructure & DevOps:** Git, Docker, GitHub Actions, RouterOS (MikroTik), Winbox, Linux
 
 ### 🌌 Project Ecosystem
-- 🔭 **I’m currently working on** **Project Chronos** – an ultra-low latency, microservices-driven appointment scheduling engine.
 - 👯 **I’m looking to collaborate on** open-source systems programming, performance benchmarking, and network automation.
 - 🌱 **I’m currently learning** memory-safe exploitation techniques, concurrent system architecture, and advanced cryptography.
 - 💬 **Ask me about** how to bridge the gap between high-level web interfaces and bare-metal performance.
